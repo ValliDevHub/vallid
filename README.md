@@ -5,7 +5,7 @@
     ✨ Hello, I'm Valli! ✨ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
     <span style="color: #FF5733;">JavaScript Developer</span> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
     <span style="color: #33FF57;">Open Source Enthusiast</span> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-    <span style="color: #3399FF;">Tech Blogger</span>
+    <span style="color: #3399FF;">Open For Upskilling</span>
   </marquee>
 </h1>
 <div align="center">
